@@ -4,7 +4,7 @@
 
 <h1 align="center">Olá, eu sou o Igor Alves 👋</h1>
 <div align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=500&lines=ESTUDANTE+DE+SISTEMAS+DE+INFORMA%C3%87%C3%83O+%7C+ESTAGI%C3%81RIO+DE+T.I.+%7C+DESENVOLVEDOR+DE+SOFTWARE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=500&lines=ESTUDANTE+DE+SISTEMAS+DE+INFORMA%C3%87%C3%83O+%7C+DESENVOLVEDOR+DE+SOFTWARE" alt="Typing SVG" />
 </div>
 
 <div align='center' style="display: flex; align-items: flex-start; justify-content: center; gap: 10px;">
@@ -20,8 +20,6 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Igor2920&label=Visualiza%C3%A7%C3%B5es%20de%20perfil&labelColor=01102d&icon_color=%2341C350&style=flat" alt="Igor2920" /> 
 </p>
-
-- 🔭 Atualmente estou trabalhando como **Estagiário de T.I. na Secretaria de Educação (SEDUC) – Guarujá**
 
 - 🎓 Estou estudando **Sistemas de Informação na Universidade Santa Cecília**
 
