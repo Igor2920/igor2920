@@ -88,11 +88,14 @@
 </p>
 
 ---
+---
 
 <h3 align="center">【 TROFÉUS 】</h3>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Igor2920&theme=algolia"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Igor2920&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do Igor" />
+  </a>
 </p>
 
 ---
@@ -100,15 +103,28 @@
 <h3 align="center">【 CITAÇÕES 】</h3>
 
 <p align="center">
-[![Atualize a página para ver outra citação](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Citação" />
+  </a>
 </p>
 
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-</p>
+---
+
+
+<h3 align="center">【 CONTRIBUIÇÕES 】</h3>
 
 <p align="center">
-<a href="https://github.com/Igor2920?tab=repositories">
-<img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://img.shields.io/badge/-Todos%20os%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
-</a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
+    <img alt="Animação da Cobrinha" src="dist/github-snake-dark.svg" width="100%">
+  </picture>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Igor2920?tab=repositories">
+    <img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://img.shields.io/badge/-Todos%20os%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
+  </a>
 </p>
