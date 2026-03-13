@@ -103,7 +103,7 @@
 <h3 align="center">【 CITAÇÕES 】</h3>
 
 <p align="center">
-  <img src="Steve Jobs.PNG" alt="Citação do Steve Jobs" width="100%">
+  <img src="Steve Jobs.png" alt="Citação do Steve Jobs" width="100%">
 </p>
 
 ---
