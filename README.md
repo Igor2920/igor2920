@@ -1,6 +1,6 @@
 ![logo](https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
 
-<h1 align="center">Olá 👋, eu sou o Igor Alves</h1>
+<h1 align="center">Olá, eu sou o Igor Alves 👋</h1>
 <div align='center'>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=500&lines=ESTUDANTE+DE+SISTEMAS+DE+INFORMA%C3%87%C3%83O+%7C+ESTAGI%C3%81RIO+DE+T.I.+%7C+DESENVOLVEDOR+DE+SOFTWARE" alt="Typing SVG" />
 </div>
