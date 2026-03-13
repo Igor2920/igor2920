@@ -103,9 +103,7 @@
 <h3 align="center">【 CITAÇÕES 】</h3>
 
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Citação" />
-  </a>
+  <img src="Steve Jobs.jpg" alt="Citação do Steve Jobs" width="100%">
 </p>
 
 ---
