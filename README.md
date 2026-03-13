@@ -1,4 +1,6 @@
-![logo](https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="logo" width="60%">
+</p>
 
 <h1 align="center">Olá, eu sou o Igor Alves 👋</h1>
 <div align='center'>
@@ -85,17 +87,6 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Igor2920&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
----
-
-<h3 align="center">【 TROFÉUS 】</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Igor2920&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do Igor" />
-  </a>
 </p>
 
 ---
