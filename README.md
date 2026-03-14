@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Igor2920&show_icons=true&line_height=30&theme=algolia&locale=pt-br&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Igor2920&show_icons=true&line_height=30&theme=algolia&locale=pt-br&include_all_commits=true&v=1"/>
 </p>
 
 <p align="center">
