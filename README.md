@@ -1,21 +1,17 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="logo" width="70%">
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="banner" width="70%">
 </p>
 
 <h1 align="center">Olá, eu sou o Igor Alves 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=500&lines=ESTUDANTE+DE+SISTEMAS+DE+INFORMA%C3%87%C3%83O+%7C+DESENVOLVEDOR+DE+SOFTWARE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00BFFF&width=600&lines=APAIXONADO+POR+TECNOLOGIA+%F0%9F%92%99;DESENVOLVEDOR+DE+SOFTWARE;ESTUDANTE+DE+SISTEMAS+DE+INFORMA%C3%87%C3%83O" alt="Typing SVG" />
 </div>
 
 <br>
 
-<div align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin icon" width="59" height="59" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker icon" width="59" height="59" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python icon" width="59" height="59" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github icon" width="59" height="59" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql icon" width="59" height="59" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,docker,python,github,mysql,firebase,html,cs,androidstudio&perline=9" alt="Tech Stack Icons" />
 </div>
 
 <img align="right" alt="micro chip" width="350" src="https://clipart-library.com/img/2091643.gif">
@@ -24,11 +20,16 @@
   <img src="https://komarev.com/ghpvc/?username=Igor2920&label=Visualiza%C3%A7%C3%B5es%20de%20perfil&labelColor=01102d&icon_color=%2341C350&style=flat" alt="Igor2920" /> 
 </p>
 
-- 🎓 Estou estudando **Sistemas de Informação na Universidade Santa Cecília**
-- 🌱 Atualmente estou aprendendo **Desenvolvimento Android (Kotlin), Docker, Firebase e Desenvolvimento de Software**
-- 💻 Tenho experiência com **Suporte de T.I., Redes, Manutenção de Hardware e Banco de Dados**
-- 👨‍💻 Todos os meus projetos estão disponíveis em **[GitHub](https://github.com/Igor2920)**
-- 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/igor-silva2920/)**
+- 🎓 Estudando **Sistemas de Informação na Universidade Santa Cecília**
+- 🌱 Aprendendo atualmente **Desenvolvimento Android (Kotlin), Docker, Firebase e Desenvolvimento de Software**
+- 💻 **Experiência profissional em:**
+  - 🔧 Suporte de T.I. e Manutenção de Hardware
+  - 🌐 Redes e Infraestrutura
+  - 🗄️ Banco de Dados
+  - 🤝 Customer Success
+  - 🎨 Front-end Development
+- 👨‍💻 Meus projetos estão disponíveis em **[GitHub](https://github.com/Igor2920)**
+- 📫 Me encontre no **[LinkedIn](https://www.linkedin.com/in/igor-silva2920/)**
 
 ---
 
@@ -44,15 +45,26 @@
 
 <h3 align="center">【 HABILIDADES 】</h3>
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> 
+<div align="center">
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,docker,python,mysql,firebase,html,css,cs,git,github,androidstudio&perline=6" />
 </p>
 
 ---
