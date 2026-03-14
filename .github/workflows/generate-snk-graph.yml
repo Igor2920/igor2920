@@ -8,8 +8,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # 1. ADICIONADO: Dá permissão para o bot salvar a imagem no repositório (Resolve o Exit Code 1)
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v3
+      # 2. ATUALIZADO: Muda do v3 para o v4 (Resolve o aviso amarelo do Node.js 20)
+      - uses: actions/checkout@v4
+      
       - name: Generate Snake Graph
         uses: Platane/snk@v3
         with:
@@ -18,10 +25,12 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            
       - name: Commit & Push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add dist/
-          git commit -m 'Generate snake contribution graph'
+          # 3. ADICIONADO: Evita que o script quebre se a cobrinha for exatamente igual à de ontem
+          git commit -m 'Generate snake contribution graph' || echo "Nenhuma mudanca para commitar"
           git push
