@@ -4,15 +4,37 @@
 
 <h1 align="center">Olá, eu sou o Igor Alves 👋</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00BFFF&width=600&lines=APAIXONADO+POR+TECNOLOGIA+%F0%9F%92%99;DESENVOLVEDOR+DE+SOFTWARE;ESTUDANTE+DE+SISTEMAS+DE+INFORMA%C3%87%C3%83O" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=APAIXONADO+POR+TECNOLOGIA+%F0%9F%92%99;DESENVOLVEDOR+DE+SOFTWARE;ESTUDANTE+DE+SISTEMAS+DE+INFORMA%C3%87%C3%83O" alt="Typing SVG" />
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,docker,python,github,mysql,firebase,html,cs,androidstudio&perline=9" alt="Tech Stack Icons" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="48" title="Kotlin"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" title="Docker"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" title="Python"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" title="GitHub"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" title="MySQL"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" title="Firebase"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" title="HTML5"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" title="C#"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" title="Android Studio"/>
+</p>
+
+<p align="center">
+  <img src="https://animatedicons.co/get-icon?icon=code&style=minimalistic&token=01&loop=1" width="40" alt="animated"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40" alt="dev gif"/>
+</p>
 
 <img align="right" alt="micro chip" width="350" src="https://clipart-library.com/img/2091643.gif">
 
