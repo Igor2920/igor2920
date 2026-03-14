@@ -30,11 +30,6 @@
   <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" title="Android Studio"/>
 </p>
 
-<p align="center">
-  <img src="https://animatedicons.co/get-icon?icon=code&style=minimalistic&token=01&loop=1" width="40" alt="animated"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40" alt="dev gif"/>
-</p>
 
 <img align="right" alt="micro chip" width="350" src="https://clipart-library.com/img/2091643.gif">
 
