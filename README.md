@@ -12,25 +12,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Android+Developer+com+Kotlin;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Igor2920&label=Visualizações%20de%20perfil&labelColor=01102d&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 # 🚀 Sobre mim
 
-🎓 Estudando **Sistemas de Informação na Universidade Santa Cecília**
+Sou **estudante de Sistemas de Informação na Universidade Santa Cecília** e apaixonado por tecnologia, desenvolvimento de software e soluções que resolvem problemas reais.
 
-🌱 Aprendendo atualmente
+Atualmente estou focado em **desenvolvimento Android com Kotlin**, além de estudar **Docker, Firebase e arquitetura de software**.
 
-- Android com **Kotlin**
-- **Docker**
-- **Firebase**
-- **Arquitetura de Software**
+Tenho experiência prática em **Suporte de TI, Redes, Manutenção de Hardware e Banco de Dados**, o que me deu uma visão completa do funcionamento de sistemas — desde a infraestrutura até o desenvolvimento.
 
-💼 Experiência com
-
-- Suporte de TI
-- Redes
-- Manutenção de Hardware
-- Banco de Dados
+Gosto de construir projetos, aprender novas tecnologias e evoluir constantemente como desenvolvedor.
 
 ---
 
@@ -48,14 +44,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=kotlin,android,docker,python,firebase,html,cs,mysql,git,github&perline=5" />
 
 </p>
 
@@ -97,6 +86,10 @@
 ---
 
 # 📚 Frase que me inspira
+
+<p align="center">
+  <img src="https://i.imgur.com/8Km9tLL.png" width="100%">
+</p>
 
 <p align="center">
 
