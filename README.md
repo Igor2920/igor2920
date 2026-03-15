@@ -38,7 +38,7 @@
 </p>
 
 - 🎓 Estudando **Sistemas de Informação na Universidade Santa Cecília**
-- 🌱 Aprendendo atualmente **Desenvolvimento Android (Kotlin), Docker, Firebase e Desenvolvimento de Software**
+- 🌱 Aprendendo atualmente **Desenvolvimento Android, Docker, Firebase e Desenvolvimento de Software**
 - 💻 **Experiência profissional em:**
   - 🔧 Suporte de T.I. e Manutenção de Hardware
   - 🌐 Redes e Infraestrutura
